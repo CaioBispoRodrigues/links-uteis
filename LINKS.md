@@ -1,5 +1,5 @@
 ## 📋 Índice
-
+Copia de links uteis 
 - [🖼 Banco de imagens gratuitas](#-banco-de-imagens-gratuitas)
 - [🔧 Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento)
 - [🗂 Gerenciamento de projetos](#-gerenciamento-de-projetos)
